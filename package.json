@@ -1,0 +1,14 @@
+{
+  "name": "complement-virus",
+  "version": "1.0.0",
+  "description": "Not a real virus, meant to give complements",
+  "main": "not-a-virus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Arico",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^8.0.0"
+  }
+}
